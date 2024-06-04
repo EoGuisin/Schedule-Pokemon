@@ -1,6 +1,6 @@
 <h1>Schedule Pokemon (Made all by me for a test)</h1>
 
-This is a simple Python script that scrapes movie information from IMDB. It uses the `requests` and `beautifulsoup4` libraries to make HTTP requests and parse the HTML of the page.
+A website for scheduling appointments for Pokemons, where you can add more than one Pokemon and set the date and time for that appointment, with a generational fee as a percentage, total value, informing the region and city, and with animations.
 
 ## 🚀 How to Run the Code
 
