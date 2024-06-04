@@ -1,4 +1,4 @@
-<h1 align="center">Schedule Pokemon (Made all by me for a test)</h1>
+<h1>Schedule Pokemon (Made all by me for a test)</h1>
 
 This is a simple Python script that scrapes movie information from IMDB. It uses the `requests` and `beautifulsoup4` libraries to make HTTP requests and parse the HTML of the page.
 
