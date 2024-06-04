@@ -1,6 +1,4 @@
 <h1 align="center">Schedule Pokemon (Made all by me for a test)</h1>
-<div>`````</div>
-
 
 # Schedule Pokemon (Made all by me for a test)
 
